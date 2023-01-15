@@ -1,0 +1,31 @@
+h6 {
+  font-size: var(--chakra-fontSizes-lg);
+  font-weight: var(--chakra-fontWeights-semibold);
+}
+h5 {
+  font-size: var(--chakra-fontSizes-xl);
+  font-weight: var(--chakra-fontWeights-semibold);
+}
+h4 {
+  font-size: var(--chakra-fontSizes-2xl);
+  font-weight: var(--chakra-fontWeights-semibold);
+}
+h3 {
+  font-weight: var(--chakra-fontWeights-semibold);
+
+  font-size: var(--chakra-fontSizes-3xl);
+}
+h2 {
+  font-weight: var(--chakra-fontWeights-semibold);
+
+  font-size: var(--chakra-fontSizes-4xl);
+}
+h1 {
+  font-weight: var(--chakra-fontWeights-semibold);
+
+  font-size: var(--chakra-fontSizes-5xl);
+}
+p{
+    font-size: var(--chakra-fontSizes-md);
+
+}
